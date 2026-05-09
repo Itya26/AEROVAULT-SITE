@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "AEROVAULT",
     "description": "",
-    "home_page_url": "https://Itya26.github.io/AEROVAULT-SITE",
-    "feed_url": "https://Itya26.github.io/AEROVAULT-SITE/feed.json",
+    "home_page_url": "https://ltya26.github.io/AEROVAULT-SITE",
+    "feed_url": "https://ltya26.github.io/AEROVAULT-SITE/feed.json",
     "user_comment": "",
-    "icon": "https://Itya26.github.io/AEROVAULT-SITE/media/website/image-5.png",
+    "icon": "https://ltya26.github.io/AEROVAULT-SITE/media/website/image-5.png",
     "author": {
         "name": "ASHVIN"
     },
     "items": [
         {
-            "id": "https://Itya26.github.io/AEROVAULT-SITE/aerovault-2.html",
-            "url": "https://Itya26.github.io/AEROVAULT-SITE/aerovault-2.html",
+            "id": "https://ltya26.github.io/AEROVAULT-SITE/aerovault-2.html",
+            "url": "https://ltya26.github.io/AEROVAULT-SITE/aerovault-2.html",
             "title": "AEROVAULT",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
