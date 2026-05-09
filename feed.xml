@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AEROVAULT</title>
-    <link href="https://github.com/Itya26/AEROVAULT-SITE/tree/feed.xml" rel="self" />
-    <link href="https://github.com/Itya26/AEROVAULT-SITE/tree" />
+    <link href="https://github.com/Itya26/AEROVAULT-SITE/feed.xml" rel="self" />
+    <link href="https://github.com/Itya26/AEROVAULT-SITE" />
     <updated>2026-05-09T19:19:32+05:30</updated>
     <author>
         <name>ASHVIN</name>
     </author>
-    <id>https://github.com/Itya26/AEROVAULT-SITE/tree</id>
+    <id>https://github.com/Itya26/AEROVAULT-SITE</id>
 
     <entry>
         <title>AEROVAULT</title>
         <author>
             <name>ASHVIN</name>
         </author>
-        <link href="https://github.com/Itya26/AEROVAULT-SITE/tree/aerovault-2.html"/>
-        <id>https://github.com/Itya26/AEROVAULT-SITE/tree/aerovault-2.html</id>
+        <link href="https://github.com/Itya26/AEROVAULT-SITE/aerovault-2.html"/>
+        <id>https://github.com/Itya26/AEROVAULT-SITE/aerovault-2.html</id>
 
         <updated>2026-05-09T19:19:32+05:30</updated>
             <summary></summary>

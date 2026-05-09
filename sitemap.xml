@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/Itya26/AEROVAULT-SITE/tree/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/Itya26/AEROVAULT-SITE/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/Itya26/AEROVAULT-SITE/tree/</loc>
+<loc>https://github.com/Itya26/AEROVAULT-SITE/</loc>
 </url>
 <url>
-<loc>https://github.com/Itya26/AEROVAULT-SITE/tree/aerovault-2.html</loc>
+<loc>https://github.com/Itya26/AEROVAULT-SITE/aerovault-2.html</loc>
 <lastmod>2026-05-09T19:19:32+05:30</lastmod>
 </url>
 <url>
-<loc>https://github.com/Itya26/AEROVAULT-SITE/tree/aerovault.html</loc>
+<loc>https://github.com/Itya26/AEROVAULT-SITE/aerovault.html</loc>
 <lastmod>2026-05-09T17:56:11+05:30</lastmod>
 <image:image>
-<image:loc>https://github.com/Itya26/AEROVAULT-SITE/tree/media/posts/1/Upfoto_3Ej39LjyMvGSnldIJzxmlAB2eQAkNJ7j4sLqLxzf9piiw.jpg-1.jpeg</image:loc>
+<image:loc>https://github.com/Itya26/AEROVAULT-SITE/media/posts/1/Upfoto_3Ej39LjyMvGSnldIJzxmlAB2eQAkNJ7j4sLqLxzf9piiw.jpg-1.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
