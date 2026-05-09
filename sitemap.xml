@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ltya26.github.io/AEROVAULT-SITE/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://aerovault.space/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://ltya26.github.io/AEROVAULT-SITE/</loc>
+<loc>https://aerovault.space/</loc>
 </url>
 <url>
-<loc>https://ltya26.github.io/AEROVAULT-SITE/aerovault-2.html</loc>
+<loc>https://aerovault.space/aerovault-2.html</loc>
 <lastmod>2026-05-09T19:19:32+05:30</lastmod>
 </url>
 <url>
-<loc>https://ltya26.github.io/AEROVAULT-SITE/aerovault.html</loc>
+<loc>https://aerovault.space/aerovault.html</loc>
 <lastmod>2026-05-09T17:56:11+05:30</lastmod>
 <image:image>
-<image:loc>https://ltya26.github.io/AEROVAULT-SITE/media/posts/1/Upfoto_3Ej39LjyMvGSnldIJzxmlAB2eQAkNJ7j4sLqLxzf9piiw.jpg-1.jpeg</image:loc>
+<image:loc>https://aerovault.space/media/posts/1/Upfoto_3Ej39LjyMvGSnldIJzxmlAB2eQAkNJ7j4sLqLxzf9piiw.jpg-1.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
