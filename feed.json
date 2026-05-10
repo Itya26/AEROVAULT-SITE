@@ -10,18 +10,5 @@
         "name": "ASHVIN"
     },
     "items": [
-        {
-            "id": "https://aerovault.space/aerovault-2.html",
-            "url": "https://aerovault.space/aerovault-2.html",
-            "title": "AEROVAULT",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "ASHVIN"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-09T19:19:32+05:30",
-            "date_modified": "2026-05-09T19:19:32+05:30"
-        }
     ]
 }
